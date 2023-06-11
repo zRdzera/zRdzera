@@ -1,5 +1,8 @@
-### Hi there, I'm Everton. 👋
+### Hi there, I'm Everton Luiz Zardo. 👋
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 Currently learning: 
+  - JavaScript Vanilla;
+  - Java with Spring framework;
+
 - 📫 How to reach me: evezardo15@gmail.com
 
